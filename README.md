@@ -1,2 +1,5 @@
 # hello-world
-this is my first repository
+
+
+i am anshu raj
+i am an undergrad student
